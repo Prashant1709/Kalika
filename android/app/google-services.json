@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100309314008",
+    "project_id": "poverty-ecd05",
+    "storage_bucket": "poverty-ecd05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100309314008:android:37253d5d444255b6e32aad",
+        "android_client_info": {
+          "package_name": "com.example.poverty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100309314008-11anh699adnf0rgnctecvi61q93d4nc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJCOY1vAAkjKGwRjLKBENZKHuiNACpq6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100309314008-11anh699adnf0rgnctecvi61q93d4nc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
